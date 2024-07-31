@@ -1,0 +1,50 @@
+.carousel-altura .carousel-inner {
+    height: 400px;
+}
+
+.carousel-altura .carousel-item img {
+    height: 400px;
+    object-fit: cover; /* Ajusta a imagem para cobrir a altura */
+}
+#carousel-exemplo{
+    margin-bottom: 5%;
+}
+.card{
+    margin-bottom: 24px;
+}
+.card p{
+    margin: 20px 0;
+}
+footer{
+    text-align: center;
+    align-content: center;
+    margin: 24px 0;
+    background-color: black;
+    color: white;
+    height:100px;
+}
+.btn{
+    width: 100%;
+}
+.header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+.header nav a {
+    margin-left: 15px;
+    color: #007bff;
+    text-decoration: none;
+}
+.header nav a:hover {
+    text-decoration: underline;
+}
+ul{
+    display: flex;
+}
+ul li{
+    margin-left:16px ;
+    list-style: none;
+}
+
+
+
